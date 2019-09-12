@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/atsuto7/projects/UserCreateApi/UserCreateApi/UserCreateApi.csproj": {}
+  },
+  "projects": {
+    "/Users/atsuto7/projects/UserCreateApi/UserCreateApi/UserCreateApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/atsuto7/projects/UserCreateApi/UserCreateApi/UserCreateApi.csproj",
+        "projectName": "UserCreateApi",
+        "projectPath": "/Users/atsuto7/projects/UserCreateApi/UserCreateApi/UserCreateApi.csproj",
+        "packagesPath": "/Users/atsuto7/.nuget/packages/",
+        "outputPath": "/Users/atsuto7/projects/UserCreateApi/UserCreateApi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/atsuto7/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/atsuto7/projects/UserCreateApi/UserCreateApi/bin/Debug/netcoreapp2.1/UserCreateApi.deps.json
+/Users/atsuto7/projects/UserCreateApi/UserCreateApi/bin/Debug/netcoreapp2.1/UserCreateApi.runtimeconfig.json
+/Users/atsuto7/projects/UserCreateApi/UserCreateApi/bin/Debug/netcoreapp2.1/UserCreateApi.runtimeconfig.dev.json
+/Users/atsuto7/projects/UserCreateApi/UserCreateApi/bin/Debug/netcoreapp2.1/UserCreateApi.dll
+/Users/atsuto7/projects/UserCreateApi/UserCreateApi/bin/Debug/netcoreapp2.1/UserCreateApi.pdb
+/Users/atsuto7/projects/UserCreateApi/UserCreateApi/obj/Debug/netcoreapp2.1/UserCreateApi.csprojAssemblyReference.cache
+/Users/atsuto7/projects/UserCreateApi/UserCreateApi/obj/Debug/netcoreapp2.1/UserCreateApi.csproj.CoreCompileInputs.cache
+/Users/atsuto7/projects/UserCreateApi/UserCreateApi/obj/Debug/netcoreapp2.1/UserCreateApi.AssemblyInfoInputs.cache
+/Users/atsuto7/projects/UserCreateApi/UserCreateApi/obj/Debug/netcoreapp2.1/UserCreateApi.AssemblyInfo.cs
+/Users/atsuto7/projects/UserCreateApi/UserCreateApi/obj/Debug/netcoreapp2.1/UserCreateApi.dll
+/Users/atsuto7/projects/UserCreateApi/UserCreateApi/obj/Debug/netcoreapp2.1/UserCreateApi.pdb
